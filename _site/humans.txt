@@ -3,7 +3,7 @@
 
 # TEAM
 
-    will felker -- <role> -- @weftech
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
